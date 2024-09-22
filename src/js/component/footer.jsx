@@ -2,8 +2,8 @@ import React  from "react";
 //import Container from 'react-bootstrap/Container';
 
 export const Footer = () => (
-	<footer className="footer mt-auto py-3 text-center" bg="dark" data-bs-theme="dark" 
-  style={{ background: 'black', color: 'grey'}} > 
+	<footer className="footer mt-auto py-3 text-center fixed-bottom" bg="dark" data-bs-theme="dark" 
+  style={{ background: '', color: 'grey'}} > 
 		<p>Made by 
           <a href="https://github.com/Marianvsf"> Marian Suarez </a>
           at

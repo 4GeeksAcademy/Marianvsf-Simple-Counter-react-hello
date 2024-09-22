@@ -7,6 +7,17 @@
     ...Or you can use the import command to include 
     other sylesheets into your bunde as well, e.j:
     
-    import 'relative/path/to/stylesheet.scss';
+    // height: props.heigth ? props.heigth:"13vw",
+          // width: props.width ? props.width:"10%",
+          // height: "auto",
+          // width: "auto",
 
 */
+#clock{
+    background: "black";
+    color: "white";
+    font-size: "4vw";
+    font-weight: "bolder";
+    box-shadow: "0px 0px 10px lightgrey"
+}
+          
